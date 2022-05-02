@@ -1,0 +1,20 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "dictionary project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohnjibok/dictionary.git"
+  },
+  "author": "jt sibok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohnjibok/dictionary/issues"
+  },
+  "homepage": "https://github.com/sohnjibok/dictionary#readme",
+  "type" : "module"
+}
